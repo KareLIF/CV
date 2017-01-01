@@ -1,4 +1,3 @@
 # CV
-
-个人简历 2016.8.17
+Curriculum Vitae
 
